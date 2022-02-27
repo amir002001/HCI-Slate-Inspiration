@@ -9,3 +9,5 @@ A mobile app made for Slate to allow students to access material from within the
 * Schedule View allows a comprehensive look into what's due to give you a different perspective.
 * Stack-based navigation allows you to keep going back and forth between pages.
 
+## Demo
+![Demo Iage](/demo.png)
