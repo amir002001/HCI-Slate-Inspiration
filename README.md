@@ -11,3 +11,4 @@ A mobile app made for Slate to allow students to access material from within the
 
 ## Demo
 ![Demo Iage](/demo.png)
+***https://www.youtube.com/watch?v=SRnsXSZX3CQ***
